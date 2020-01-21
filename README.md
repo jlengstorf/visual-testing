@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Visual Testing Using Cypress and Applitools (with Angie Jones)
+  Visual Testing Using Cypress & Applitools (with Angie Jones)
 </h1>
 <h3 align="center">
   This app was built live on <em>Learn With Jason</em> and it was super fun and I’m sad you weren’t there.
@@ -17,9 +17,16 @@
 
 When you're shipping websites and apps, one of the most important things is that they look right to the people using them. In this episode, [Angie Jones](https://twitter.com/techgirl1908) teaches us how to use Cypress and Applitools to ensure that we're shipping things that look right, every time.
 
-For links, additional resources, and to watch this app get built live, [see the episode details][episode].
+&nbsp;
+
+## More Information
+
+- [Watch this app get build live + see links and additional resources][episode]
+- [See _Learn With Jason_ on Twitch][twitch]
+- [Add the _Learn With Jason_ schedule to your Google Calendar][cal]
 
 &nbsp;
+
 
 <p align="center">
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jlengstorf/visual-testing&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex">
@@ -28,3 +35,5 @@ For links, additional resources, and to watch this app get built live, [see the 
 </p>
 
 [episode]: https://www.learnwithjason.dev/visual-testing-using-cypress-and-applitools
+[twitch]: https://jason.af/twitch
+[cal]: https://jason.af/lwj/cal
