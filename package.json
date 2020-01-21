@@ -1,0 +1,14 @@
+{
+  "name": "visual-testing",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.9.5",
+    "cypress": "^3.8.2"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
