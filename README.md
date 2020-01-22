@@ -22,7 +22,7 @@ When you're shipping websites and apps, one of the most important things is that
 ## More Information
 
 - [Watch this app get build live + see links and additional resources][episode]
-- [See _Learn With Jason_ on Twitch][twitch]
+- [Follow _Learn With Jason_ on Twitch][twitch] to watch future episodes live
 - [Add the _Learn With Jason_ schedule to your Google Calendar][cal]
 
 &nbsp;
