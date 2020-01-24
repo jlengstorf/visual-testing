@@ -10,7 +10,11 @@
   This app was built live on <em>Learn With Jason</em> and it was super fun and I’m sad you weren’t there.
 </h3>
 <p align="center">
-  But don’t worry! You can still: <a href="https://www.learnwithjason.dev/visual-testing-using-cypress-and-applitools"><strong>watch us build this</strong></a> · <a href="https://visual-testing.netlify.com"><strong>see the demo</strong></a> · <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jlengstorf/visual-testing&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex"><strong>deploy your own copy of this project</strong></a>
+  But don’t worry! You can still: 
+  <a href="https://www.learnwithjason.dev/visual-testing-using-cypress-and-applitools"><strong>watch the video</strong></a> · 
+  <a href="https://visual-testing.netlify.com"><strong>see the demo</strong></a> · 
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jlengstorf/visual-testing&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex"><strong>deploy this project</strong></a> · 
+  <a href="https://jason.af/lwj/schedule"><strong>see upcoming episodes</strong></a>
 </p>
 
 &nbsp;
@@ -21,7 +25,7 @@ When you're shipping websites and apps, one of the most important things is that
 
 ## More Information
 
-- [Watch this app get build live + see links and additional resources][episode]
+- [Watch this app get built live + see links and additional resources][episode]
 - [Follow _Learn With Jason_ on Twitch][twitch] to watch future episodes live
 - [Add the _Learn With Jason_ schedule to your Google Calendar][cal]
 
